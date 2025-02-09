@@ -5,7 +5,7 @@ import os
 os.environ["API_KEY"] = "Insert Your API Key"
 genai.configure(api_key=os.environ["API_KEY"])
 
-# Definir la configuración del modelo
+# Definir la configuración del modelo a usar
 generation_config = {
     "temperature": 1,
     "top_p": 0.95,
