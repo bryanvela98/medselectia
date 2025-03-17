@@ -4,7 +4,7 @@ Este proyecto es un chatbot que ayuda a los usuarios a identificar la especialid
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.11
 - Google Generative AI API
 
 ## Configuración
